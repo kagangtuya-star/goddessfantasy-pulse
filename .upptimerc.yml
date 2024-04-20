@@ -13,8 +13,8 @@ status-website:
   introTitle: "今天果园挂了吗？"
   introMessage: 一个监测TRPG论坛超级纯美苹果园服务器波动的网页
   navbar:
-    - title: 状态
-      href: /
+    - title: 在线状态报表
+      href: https://kagangtuya-star.github.io/goddessfantasy-pulse/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
