@@ -4,17 +4,17 @@
     "url": "https://www.goddessfantasy.net/bbs/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.goddessfantasy.net.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 292,
-    "timeWeek": 747,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "time": 1044,
+    "timeDay": 2721,
+    "timeWeek": 1044,
+    "timeMonth": 1044,
+    "timeYear": 1044,
     "dailyMinutesDown": {}
   }
 ]
